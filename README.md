@@ -4,11 +4,11 @@
 ## Overview
 ![overview](overview.png)
 
-## Flow_1
+## Flow 1
 ![flow_1](flow_1.png)
 
-## Flow_2
-![flow_2](flow_2_.png)
+## Flow 2
+![flow_2](flow_2.png)
 
 
 
